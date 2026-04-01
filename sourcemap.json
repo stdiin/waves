@@ -1,0 +1,1 @@
+{"name":"waves","className":"DataModel","filePaths":["default.project.json"],"children":[{"name":"StarterPlayer","className":"StarterPlayer","children":[{"name":"StarterPlayerScripts","className":"StarterPlayerScripts","children":[{"name":"Sea","className":"LocalScript","filePaths":["src/client/Sea.client.luau"]}]}]}]}
